@@ -1,9 +1,9 @@
 <h1>👋 &nbsp;Oi, eu sou o Felipe, apaixonado em resolver problemas atráves de códigos!</h1>
 <p align="center">
-<a href="https://instagram.com/drcode.dev"><img src="https://img.shields.io/badge/-@dicasparadevs_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://drcode.com.br"><img src="https://img.shields.io/badge/-dicasparadevs.com.br-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/felipeourjake"><img src="https://img.shields.io/badge/-Felipe%20Mota%20Rocha-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:felipeourjake@gmail.com"><img src="https://img.shields.io/badge/-felipemota.rocha@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/drcode.dev"><img src="https://img.shields.io/badge/-@drcode.dev-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://drcode.com.br"><img src="https://img.shields.io/badge/-drcode.com.br-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/felipeourjake"><img src="https://img.shields.io/badge/-Felipe%20Melo-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:felipeourjake@gmail.com"><img src="https://img.shields.io/badge/-felipeourjake@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
 
